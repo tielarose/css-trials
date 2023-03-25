@@ -8,6 +8,17 @@ body {
     height: 100px;
 }
 
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 50px 25px;
+    display: inline-block;
+}
+
+.left_right {
+    margin: 0px 25px;
+}
+
 .red {
     background-color: red;
 }
