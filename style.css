@@ -3,8 +3,19 @@ body {
     margin: 0px
 }
 
+.flag {
+    width: 500px;
+    height: 100px;
+}
+
 .red {
     background-color: red;
-    width: 350px;
-    height: 240px;
+}
+
+.black {
+    background-color: black;
+}
+
+.gold {
+    background-color: gold;
 }
